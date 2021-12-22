@@ -18,4 +18,5 @@ Now, put this in your <code>.replit</code> file:<br>
 
 
 After that, your bot should run. If you have any troubles, join the [Discord Server](https://discord.gg/C58gvrVsyD).
+
 ![example](./images/botalive.jpeg)
