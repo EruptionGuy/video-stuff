@@ -17,7 +17,7 @@ Now, put this in your '.replit' file:<br>
 <code>run="npm start"</code>
 
 
-After that, your bot should run. If you have any troubles, join the [Discord Server](https://discord.gg/C58gvrVsyD).
+After that, your bot should run. If you have any troubles, join the [Discord Server](https://discord.gg/C58gvrVsyD).<br>
 Also, if you somehow came here without watching my video, make sure to check it out [here](https://www.youtube.com/watch?v=C5zE7wVFnw8).
 
 ![example](./images/botalive.jpeg)
