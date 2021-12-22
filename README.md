@@ -17,4 +17,4 @@ Now, put this in your <code>.replit</code> file:<br>
 <code>run="npm start"</code>
 
 
-After that, your bot should run. If you have any troubles, join the [Discord Server](https://discord.gg/C58gvrVsyD)
+After that, your bot should run. If you have any troubles, join the [Discord Server](https://discord.gg/C58gvrVsyD).
