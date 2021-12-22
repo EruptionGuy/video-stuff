@@ -13,7 +13,7 @@ Third, execute this to clean the npm cache and reinstall the package in the shel
 <code>rm -rf node_modules && rm package-lock.json && npm cache clear --force && npm cache clean --force && npm i</code><br>
 
 
-Now, put this in your .replit file:<br>
+Now, put this in your '.replit' file:<br>
 <code>run="npm start"</code>
 
 
