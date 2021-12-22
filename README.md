@@ -4,6 +4,7 @@
 First, install discord.js 13v by doing this in shell:<br>
 <code>npm i discord.js@latest</code><br>
 
+
 ## Install Node.js v16
 Second, execute this to install the packages:<br>
 <code>npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH</code><br>
